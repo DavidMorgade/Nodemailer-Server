@@ -44,4 +44,6 @@ app.post(
   (req, res) => {
 ```
 
-Remember that you will have to use 2 step authentication for a google email to work.
+Remember that you will have to use 2 step authentication for a google email to work. 
+
+## Working on nextjs version
